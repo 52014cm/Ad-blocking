@@ -18,6 +18,11 @@
 ||h.m.mpl.dutils.com^$important
 ||pask.kpohel.cn^$important
 ||doit.kccqgj.cn^$important
+bilibili.com###slide_ad + .ad-report
+###bannerAd
+v.qq.com#%#//scriptlet('json-prune', 'ad')
+||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
+youku.com#%#//scriptlet("adjust-setTimeout", "r--", "", "0.02")
 @@||ads.taboola.com^
 @@||tracker.eu.org^
 @@||stats.uptimerobot.com^
