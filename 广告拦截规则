@@ -1,7 +1,7 @@
 !Title: 小凡
 !Version: 20210526214728
 !Homepage: https://u.nu/fxmf3
-: 39493
+:          52014
 .........小草影视广告 
 ||ynv5.vip^$important'
 ||sdkapi.netbear.cn^$important
@@ -18,11 +18,12 @@
 ||h.m.mpl.dutils.com^$important
 ||pask.kpohel.cn^$important
 ||doit.kccqgj.cn^$important
-bilibili.com###slide_ad + .ad-report
-###bannerAd
-v.qq.com#%#//scriptlet('json-prune', 'ad')
-||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-youku.com#%#//scriptlet("adjust-setTimeout", "r--", "", "0.02")
+|tanx.com^$third-party
+||mmstat.com^$third-party
+||youtube.com/api/stats/atr
+||data.bilibili.com/log/
+||btrace.video.qq.com/kvcollect^
+||btrace.video.qq.com/kvcollect^
 @@||ads.taboola.com^
 @@||tracker.eu.org^
 @@||stats.uptimerobot.com^
