@@ -46,4 +46,15 @@
 ||metacafe.com^$third-party
 ||contv.com^$third-party
 ||m.twitch.tv^$third-party
-            网站
+          百度广告
+||cbjs.baidu.com/adbyby
+||list.video.baidu.com/adbyby
+||nsclick.baidu.com/adbyby
+||play.baidu.com/adbyby
+||sclick.baidu.com/adbyby
+||tieba.baidu.com/adbyby
+||baidustatic.com/adbyby
+||bdimg.com/adbyby
+||bdstatic.com/adbyby
+||share.baidu.com/adbyby
+||hm.baidu.com/adbyby
