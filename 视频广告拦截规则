@@ -35,6 +35,9 @@
 ||m.douyu.com^$third-party
 ||m.56.com/^$third-party
 ||m.youtube.com^$third-party
+||ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com^$important 
+||pl.cp31.ott.cibntv.net^$important
+||pss.alicdn.com^$important
           外网视频网站
 ||youtube.com^$third-party
 ||dailymotion.com^$third-party
