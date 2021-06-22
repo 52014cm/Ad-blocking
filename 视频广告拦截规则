@@ -42,7 +42,73 @@
 ||youtube.com^$third-party
 ||dailymotion.com^$third-party
 ||netflix.com^$third-party
-||vimeo.com^$third-party
+||vimeo.com^$third-party!Title: 吴齐龙
+
+!Version: 20190201201225
+
+!Homepage: https://u.nu/fxmf3
+
+!Total lines: 52014
+
+.........小草影视广告|
+
+||m.twitch.tv^$third-party
+
+||yp.sgupgtrs.cn^$third-party
+
+||adsmind.ugdtimg.com^$third-party
+
+||v2.gdt.qq.com^$third-party
+
+|||v.gdt.qq.com^$third-party
+
+|||ynv5.vip^$important'
+
+||sdkapi.netbear.cn^$important
+
+||zaihejianzhi.oss-cn-zhangjiakou.aliyuncs.com^$important
+
+||lbs.map.qq.com^$important
+
+||info.gamecenter.qq.com^$important
+
+||da.anythinktech.com^$important
+
+||r2cx.vip^$important
+
+||yp.sgupgtrs.cn^$important
+
+||xcapp.cyb365.cn^$important
+
+||xc662.nbssjm8.cn^$important
+
+||m.mpl.dutils.com^$important
+
+||m.mpl.dutils.com^$important
+
+||h.m.mpl.dutils.com^$important
+
+||pask.kpohel.cn^$important
+
+||doit.kccqgj.cn^$important
+
+|tanx.com^$third-party
+
+||alimov6.a.yximgs.com^$important
+
+||toblog.ctobsnssdk.com^$important
+
+              优酷广告
+
+||m.youtube.com^$third-party
+
+||ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com^$important 
+
+||pl.cp31.ott.cibntv.net^$important
+
+||pss.alicdn.com^$important
+
+          外网视频网站
 ||hulu.com^$third-party
 ||itemfix.com^$third-party
 ||vine.co^$third-party
