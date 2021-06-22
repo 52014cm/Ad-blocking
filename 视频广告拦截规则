@@ -2,7 +2,12 @@
 !Version: 20190201201225
 !Homepage: https://u.nu/fxmf3
 !Total lines: 52014
-.........小草影视广告 
+.........小草影视广告|
+||m.twitch.tv^$third-party
+||yp.sgupgtrs.cn^$third-party
+||adsmind.ugdtimg.com^$third-party
+||v2.gdt.qq.com^$third-party
+|||v.gdt.qq.com^$third-party
 |||ynv5.vip^$important'
 ||sdkapi.netbear.cn^$important
 ||zaihejianzhi.oss-cn-zhangjiakou.aliyuncs.com^$important
@@ -21,19 +26,7 @@
 |tanx.com^$third-party
 ||alimov6.a.yximgs.com^$important
 ||toblog.ctobsnssdk.com^$important
-           视频网站 
-||mmstat.com^$third-party
-||m.iqiyi.com^$third-party
-||m.le.com/^$third-party
-||m.tv.sohu.com^$third-party
-||m.mgtv.com^$third-party
-||m.pptv.com^$third-party
-||m.v.qq.com^$third-party
-||vip.1905.com/^$third-party
-||www.wasu.cn^$third-party
-||m.bilibili.com^$third-party
-||m.douyu.com^$third-party
-||m.56.com/^$third-party
+              优酷广告
 ||m.youtube.com^$third-party
 ||ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com^$important 
 ||pl.cp31.ott.cibntv.net^$important
@@ -42,126 +35,10 @@
 ||youtube.com^$third-party
 ||dailymotion.com^$third-party
 ||netflix.com^$third-party
-||vimeo.com^$third-party!Title: 吴齐龙
-
-!Version: 20190201201225
-
-!Homepage: https://u.nu/fxmf3
-
-!Total lines: 52014
-
-.........小草影视广告|
-
-||m.twitch.tv^$third-party
-
-||yp.sgupgtrs.cn^$third-party
-
-||adsmind.ugdtimg.com^$third-party
-
-||v2.gdt.qq.com^$third-party
-
-|||v.gdt.qq.com^$third-party
-
-|||ynv5.vip^$important'
-
-||sdkapi.netbear.cn^$important
-
-||zaihejianzhi.oss-cn-zhangjiakou.aliyuncs.com^$important
-
-||lbs.map.qq.com^$important
-
-||info.gamecenter.qq.com^$important
-
-||da.anythinktech.com^$important
-
-||r2cx.vip^$important
-
-||yp.sgupgtrs.cn^$important
-
-||xcapp.cyb365.cn^$important
-
-||xc662.nbssjm8.cn^$important
-
-||m.mpl.dutils.com^$important
-
-||m.mpl.dutils.com^$important
-
-||h.m.mpl.dutils.com^$important
-
-||pask.kpohel.cn^$important
-
-||doit.kccqgj.cn^$important
-
-|tanx.com^$third-party
-
-||alimov6.a.yximgs.com^$important
-
-||toblog.ctobsnssdk.com^$important
-
-              优酷广告
-
-||m.youtube.com^$third-party
-
-||ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com^$important 
-
-||pl.cp31.ott.cibntv.net^$important
-
-||pss.alicdn.com^$important
-
-          外网视频网站
+||vimeo.com^$third-party
 ||hulu.com^$third-party
 ||itemfix.com^$third-party
 ||vine.co^$third-party
 ||metacafe.com^$third-party
 ||contv.com^$third-party
 ||m.twitch.tv^$third-party
-          百度广告
-||cbjs.baidu.com/adbyby
-||list.video.baidu.com/adbyby
-||nsclick.baidu.com/adbyby
-||play.baidu.com/adbyby
-||sclick.baidu.com/adbyby
-||tieba.baidu.com/adbyby
-||baidustatic.com/adbyby
-||bdimg.com/adbyby
-||bdstatic.com/adbyby
-||share.baidu.com/adbyby
-||hm.baidu.com/adbyby
-视频广告 ADByby 自定义过滤
-||v.baidu.com/adbyby
-||1000fr.net/adbyby
-||56.com/adbyby
-||v-56.com/adbyby
-||acfun.com/adbyby
-||acfun.tv/adbyby
-||baofeng.com/adbyby
-||baofeng.net/adbyby
-||cntv.cn/adbyby
-||hoopchina.com.cn/adbyby
-||funshion.com/adbyby
-||fun.tv/adbyby
-||hitvs.cn/adbyby
-||hljtv.com/adbyby
-||iqiyi.com/adbyby
-||qiyi.com/adbyby
-||agn.aty.sohu.com/adbyby
-||itc.cn/adbyby
-||kankan.com/adbyby
-||ku6.com/adbyby
-||letv.com/adbyby
-||letvcloud.com/adbyby
-||letvimg.com/adbyby
-||pplive.cn/adbyby
-||pps.tv/adbyby
-||ppsimg.com/adbyby
-||pptv.com/adbyby
-||v.qq.com/adbyby
-||l.qq.com/adbyby
-||video.sina.com.cn/adbyby
-||tudou.com/adbyby
-||wasu.cn/adbyby
-||analytics-union.xunlei.com/adbyby
-||kankan.xunlei.com/adbyby
-||youku.com/adbyby
-||hunantv.com/adbyby
-||zimuzu.tv/adbyby_list
