@@ -92,3 +92,5 @@
 ||#%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefin^$important
 ||youtube.com##div#masthead-ad^$important
 ||/log_event?^$important
+||youtube.com##.ytp-ad-progress-list^$important
+||youtube.com/api/stats/atr^$important
